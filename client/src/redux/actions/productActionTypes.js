@@ -1,0 +1,5 @@
+export const GET_PRODUCTS = "GET_PRODUCTS"
+
+export const GET_DETAILS = "GET_DETAILS"
+export const DETAILS_REQUEST = 'DETAILS_REQUEST'
+export const DETAILS_FAIL = 'DETAILS_FAIL'
